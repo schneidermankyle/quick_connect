@@ -84,7 +84,6 @@ class Connection {
             return FALSE;
         }
     }
-    
 
     // Private parts //
     private function sanitize($input){
